@@ -1,19 +1,19 @@
 {
-    "version": "0.0.5",
+    "version": "0.0.8",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/aquaponics-ai/walle-dist/releases/download/v0.0.5/walle_0.0.5_windows_i386.zip",
+            "url": "https://github.com/aquaponics-ai/walle-dist/releases/download/v0.0.8/walle_0.0.8_windows_i386.zip",
             "bin": [
                 "walle.exe"
             ],
-            "hash": "1e1a45b16a5bc8e54cfc366c71ddbc821a5714942693386256a0e3bb2a5b827e"
+            "hash": "8682fbb33c27bb592c00f00301607699ef4e4738b35dd52db50e57936982dc85"
         },
         "64bit": {
-            "url": "https://github.com/aquaponics-ai/walle-dist/releases/download/v0.0.5/walle_0.0.5_windows_x86_64.zip",
+            "url": "https://github.com/aquaponics-ai/walle-dist/releases/download/v0.0.8/walle_0.0.8_windows_x86_64.zip",
             "bin": [
                 "walle.exe"
             ],
-            "hash": "b83899fe111636ce58ae50dd74988d54b79a584746f88490f4ceac96841d90c7"
+            "hash": "e0231c1321767825c22c82de5994cf9c31e0be716accbd0fd3143ad3f02f74a1"
         }
     },
     "homepage": "https://aquaponics.ai"
