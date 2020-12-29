@@ -1,0 +1,20 @@
+{
+    "version": "0.1.12",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/aquaponics-ai/sparky-cli-dist/releases/download/v0.1.12/sparky_0.1.12_windows_i386.zip",
+            "bin": [
+                "sparky.exe"
+            ],
+            "hash": "b502ed98dec17982e493acac422c14da31ec2a70367d8b83c7c1101a5a7d0448"
+        },
+        "64bit": {
+            "url": "https://github.com/aquaponics-ai/sparky-cli-dist/releases/download/v0.1.12/sparky_0.1.12_windows_x86_64.zip",
+            "bin": [
+                "sparky.exe"
+            ],
+            "hash": "81979841aaea7248a2dccec57a48ef6eca8c1184909d176f42ced45daffd0174"
+        }
+    },
+    "homepage": "https://aquaponics.ai"
+}
