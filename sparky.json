@@ -1,26 +1,26 @@
 {
-    "version": "0.2.8",
+    "version": "0.2.9",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/thefarmhub/sparky-cli-dist/releases/download/v0.2.8/sparky_Windows_i386.zip",
+            "url": "https://github.com/thefarmhub/sparky-cli-dist/releases/download/v0.2.9/sparky_Windows_i386.zip",
             "bin": [
                 "sparky.exe"
             ],
-            "hash": "fc0a4362a3cc6e2e295f9e0a21c5fd314176b3886a7fa851482eaef420361c3c"
+            "hash": "b7d924c55b2c9784dbaae5f5e6bdf9a0cabafc627a65c3aa770975ed3df33cbb"
         },
         "64bit": {
-            "url": "https://github.com/thefarmhub/sparky-cli-dist/releases/download/v0.2.8/sparky_Windows_x86_64.zip",
+            "url": "https://github.com/thefarmhub/sparky-cli-dist/releases/download/v0.2.9/sparky_Windows_x86_64.zip",
             "bin": [
                 "sparky.exe"
             ],
-            "hash": "6c5161f0ed9928076c6126962a8ad9ea12fe19fa45a20b2a484dbacb0e23c72a"
+            "hash": "b730f73f6bc7d42e0b08049607110cbf196d7cc8e95957e1ee80ce4ecc677045"
         },
         "arm64": {
-            "url": "https://github.com/thefarmhub/sparky-cli-dist/releases/download/v0.2.8/sparky_Windows_arm64.zip",
+            "url": "https://github.com/thefarmhub/sparky-cli-dist/releases/download/v0.2.9/sparky_Windows_arm64.zip",
             "bin": [
                 "sparky.exe"
             ],
-            "hash": "3ba49119677c125872d4eaaab7602f70f90c17d11db26d416ee485a3e77761b2"
+            "hash": "ea95f2797bb801d28c9b224f6497256e75a2ab6874bf5af8879eb8f147f8f3c3"
         }
     },
     "homepage": "https://farmhub.ag"
